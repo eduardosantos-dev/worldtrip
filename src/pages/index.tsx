@@ -1,10 +1,27 @@
+import React from "react";
 import type { NextPage } from "next";
-import Head from "next/head";
-import Image from "next/image";
-import styles from "../styles/Home.module.css";
+import Header from "../components/Header";
+import Banner from "../components/Banner";
+import TripTypes from "../components/TripTypes";
+import { Divider } from "@chakra-ui/react";
+import ContinentsBanner from "../components/ContinentsBanner";
 
 const Home: NextPage = () => {
-  return <h1>Hello world</h1>;
+  return (
+    <>
+      <Header />
+      <Banner />
+      <TripTypes />
+      <Divider
+        w={["60px", "90px"]}
+        colorScheme="pink"
+        mx="auto"
+        mb="6"
+        mt="9"
+      />
+      <ContinentsBanner />
+    </>
+  );
 };
 
 export default Home;

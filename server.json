@@ -1,0 +1,40 @@
+{
+  "continents": [
+    {
+      "slug": "north_america",
+      "title": "América do norte",
+      "subtitle": "O continente mais antigo",
+      "image": "/continents/north_america.jpg"
+    },
+    {
+      "slug": "south_america",
+      "title": "América do sul",
+      "subtitle": "O continente mais antigo",
+      "image": "/continents/south_america.jpg"
+    },
+    {
+      "slug": "asia",
+      "title": "Ásia",
+      "subtitle": "O continente mais antigo",
+      "image": "/continents/asia.jpg"
+    },
+    {
+      "slug": "africa",
+      "title": "África",
+      "subtitle": "O continente mais antigo",
+      "image": "/continents/africa.jpg"
+    },
+    {
+      "slug": "europe",
+      "title": "Europa",
+      "subtitle": "O continente mais antigo",
+      "image": "/continents/europe.jpg"
+    },
+    {
+      "slug": "oceania",
+      "title": "Oceania",
+      "subtitle": "O continente mais antigo",
+      "image": "/continents/oceania.jpg"
+    }
+  ]
+}

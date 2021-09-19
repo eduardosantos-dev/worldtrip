@@ -4,37 +4,217 @@
       "slug": "north_america",
       "title": "América do norte",
       "subtitle": "O continente mais antigo",
-      "image": "/continents/north_america.jpg"
+      "content": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá (umas vezes no Canal do Panamá, outras na fronteira entre o Panamá e a Colômbia). Pela última definição, a América do Norte incluiria a América Central Continental e Insular (Caribe).",
+      "image": "https://images.unsplash.com/photo-1546083381-2bed38b42cac?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "languages_amount": "7",
+      "countries_amount": "3",
+      "cities_amount": "16",
+      "cities": [
+        {
+          "name": "Nova Iorque",
+          "country": "Estados Unidos",
+          "image": "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIweW9ya3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
+        },
+        {
+          "name": "Miami",
+          "country": "Estados Unidos",
+          "image": "https://images.unsplash.com/photo-1506966953602-c20cc11f75e3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
+        },
+        {
+          "name": "Los Angeles",
+          "country": "Estados Unidos",
+          "image": "https://images.unsplash.com/photo-1460881680858-30d872d5b530?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
+        },
+        {
+          "name": "Las Vegas",
+          "country": "Estados Unidos",
+          "image": "https://images.unsplash.com/photo-1581351721010-8cf859cb14a4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
+        },
+        {
+          "name": "Orlando",
+          "country": "Estados Unidos",
+          "image": "https://images.unsplash.com/photo-1618945373370-7bde4f8dd9c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png"
+        }
+      ]
     },
     {
       "slug": "south_america",
       "title": "América do sul",
       "subtitle": "O continente mais antigo",
-      "image": "/continents/south_america.jpg"
+      "content": "A América do Sul é um continente que compreende a porção meridional da América. Também é considerada um subcontinente do continente americano. A sua extensão é de 17 819 100 km², abrangendo 12% da superfície terrestre e 6% da população mundial. Une-se à América Central a norte pelo istmo do Panamá e se separa da Antártida ao sul pelo estreito de Drake. Tem uma extensão de 7 500 km desde o mar do Caribe até ao cabo Horn, ponto extremo sul do continente. Os outros pontos extremos da América do Sul são: ao norte a Punta Gallinas, na Colômbia, ao leste a Ponta do Seixas, no Brasil, e a oeste a Punta Pariñas, no Peru. Seus limites naturais são: ao norte com o mar do Caribe; a leste, nordeste e sudeste com o oceano Atlântico; e a oeste com o oceano Pacífico. O Brasil representa atualmente a metade da população e produto econômico desta região.",
+      "image": "https://images.unsplash.com/photo-1543385426-191664295b58?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&q=80",
+      "languages_amount": "9",
+      "countries_amount": "12",
+      "cities_amount": "3",
+      "cities": [
+        {
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "image": "https://images.unsplash.com/photo-1586354822120-bf910e563cdf?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png"
+        },
+        {
+          "name": "Lima",
+          "country": "Peru",
+          "image": "https://images.unsplash.com/photo-1577587230708-187fdbef4d91?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/125px-Flag_of_Peru.svg.png"
+        },
+        {
+          "name": "Rio de Janeiro",
+          "country": "Brasil",
+          "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png"
+        }
+      ]
     },
     {
       "slug": "asia",
       "title": "Ásia",
       "subtitle": "O continente mais antigo",
-      "image": "/continents/asia.jpg"
+      "content": "A Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte. Além de ser o mais extenso, é também o mais populoso, habitando nele cerca de três quintos da população mundial. A Ásia é multicultural, abrigando diversas culturas, etnias, religiões e tradições. Geograficamente, o continente asiático é também muito diverso. No continente, localiza-se algumas montanhas que estão entre as mais altas do mundo, grandes desertos e extensos rios. O povo asiático corresponde a uma das civilizações mais antigas do mundo, iniciada há cerca de 4000 anos. A economia e governos são também variados, visto que o continente é composto por um grande número de países, cada qual com as suas particularidades.",
+      "image": "https://images.unsplash.com/photo-1535139262971-c51845709a48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+      "languages_amount": "?",
+      "countries_amount": "50",
+      "cities_amount": "42",
+      "cities": [
+        {
+          "name": "Hong Kong",
+          "country": "China(RAE)",
+          "image": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/200px-Flag_of_Hong_Kong.svg.png"
+        },
+        {
+          "name": "Bangkok",
+          "country": "Tailândia",
+          "image": "https://images.unsplash.com/photo-1531169628939-e84f860fa5d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/125px-Flag_of_Thailand.svg.png"
+        },
+        {
+          "name": "Macau",
+          "country": "China(RAE)",
+          "image": "https://images.unsplash.com/photo-1552912809-6d4240af286b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/200px-Flag_of_Macau.svg.png"
+        },
+        {
+          "name": "Singapura",
+          "country": "Singapura",
+          "image": "https://images.unsplash.com/photo-1496939376851-89342e90adcd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/125px-Flag_of_Singapore.svg.png"
+        },
+        {
+          "name": "Kuala Lumpur",
+          "country": "Malásia",
+          "image": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/125px-Flag_of_Malaysia.svg.png"
+        }
+      ]
     },
     {
       "slug": "africa",
       "title": "África",
       "subtitle": "O continente mais antigo",
-      "image": "/continents/africa.jpg"
+      "content": "África é um dos seis continentes do mundo, sendo o terceiro maior em extensão territorial. O território estende-se por mais de 30 milhões de km², ocupando, aproximadamente, 20% da área continental da Terra. No continente vive mais de um bilhão de habitantes, fazendo dele o segundo mais populoso entre os demais. A África é conhecida pela sua pluralidade étnica e cultural, e, por meio de uma história milenar, é capaz de contar a história de toda a humanidade. Apesar da enorme riqueza do continente, muitos países africanos apresentam baixos índices de desenvolvimento, com diversos problemas sociais, como a miséria, baixa qualidade de vida, subnutrição e o analfabetismo.",
+      "image": "https://images.unsplash.com/photo-1583146464420-6bc4fe5eb279?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80",
+      "languages_amount": "?",
+      "countries_amount": "54",
+      "cities_amount": "3",
+      "cities": [
+        {
+          "name": "Cairo",
+          "country": "Egito",
+          "image": "https://images.unsplash.com/photo-1553913861-c0fddf2619ee?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/125px-Flag_of_Egypt.svg.png"
+        },
+        {
+          "name": "Johanesburgo",
+          "country": "África do Sul",
+          "image": "https://images.unsplash.com/photo-1577948000111-9c970dfe3743?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/125px-Flag_of_South_Africa.svg.png"
+        },
+        {
+          "name": "Marraquexe",
+          "country": "Marrocos",
+          "image": "https://images.unsplash.com/photo-1597212618440-806262de4f6b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png"
+        }
+      ]
     },
     {
       "slug": "europe",
       "title": "Europa",
       "subtitle": "O continente mais antigo",
-      "image": "/continents/europe.jpg"
+      "content": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "image": "https://images.unsplash.com/photo-1473951574080-01fe45ec8643?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80",
+      "languages_amount": "60",
+      "countries_amount": "50",
+      "cities_amount": "32",
+      "cities": [
+        {
+          "name": "Londres",
+          "country": "Reino Unido",
+          "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/125px-Flag_of_the_United_Kingdom.svg.png"
+        },
+        {
+          "name": "Paris",
+          "country": "França",
+          "image": "https://images.unsplash.com/photo-1550340499-a6c60fc8287c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/125px-Flag_of_France.svg.png"
+        },
+        {
+          "name": "Istambul",
+          "country": "Turquia",
+          "image": "https://images.unsplash.com/photo-1624915585644-99e936e90cbb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/125px-Flag_of_Turkey.svg.png"
+        },
+        {
+          "name": "Antália",
+          "country": "Turquia",
+          "image": "https://images.unsplash.com/photo-1593238738950-01f243cac6fc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/125px-Flag_of_Turkey.svg.png"
+        },
+        {
+          "name": "Roma",
+          "country": "Itália",
+          "image": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/125px-Flag_of_Italy.svg.png"
+        }
+      ]
     },
     {
       "slug": "oceania",
       "title": "Oceania",
       "subtitle": "O continente mais antigo",
-      "image": "/continents/oceania.jpg"
+      "content": "A Oceania é um continente situado entre os oceanos Índico e Pacífico, a sudeste da Ásia. A maior parte de suas terras fica no Hemisfério Sul do planeta. É composto por 14 países e ilhas e territórios pertencentes a outros países, tanto oceânicos quanto de outros continentes. A maior e mais populosa das nações é a Austrália, que consiste também na principal economia do continente. Destaca-se também a Nova Zelândia. No total, o continente possui cerca de 42 milhões de habitantes e apresenta condições bastante contrastantes no que diz respeito aos aspectos socieconômicos de seus países.",
+      "image": "https://images.unsplash.com/photo-1595263187083-1334b774dfb2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80",
+      "languages_amount": "18",
+      "countries_amount": "16",
+      "cities_amount": "3",
+      "cities": [
+        {
+          "name": "Sydney",
+          "country": "Austrália",
+          "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png"
+        },
+        {
+          "name": "Melbourne",
+          "country": "Austrália",
+          "image": "https://images.unsplash.com/photo-1545044846-351ba102b6d5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png"
+        },
+        {
+          "name": "Auckland",
+          "country": "Nova Zelândia",
+          "image": "https://images.unsplash.com/photo-1600208669687-f19af3638cb9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80",
+          "country_flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/125px-Flag_of_New_Zealand.svg.png"
+        }
+      ]
     }
   ]
 }

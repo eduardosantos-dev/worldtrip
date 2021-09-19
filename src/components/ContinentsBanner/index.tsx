@@ -1,16 +1,15 @@
 import React from "react";
 import { Flex, Heading, Text } from "@chakra-ui/react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, { Pagination, Navigation } from "swiper";
+import SwiperCore, { Pagination, Navigation, Autoplay } from "swiper";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
+import "swiper/css/autoplay";
 import styles from "./styles.module.scss";
 import ContinentSlide from "./ContinentSlide";
-import { GetStaticProps } from "next";
-import { api } from "../../services/api";
 
-SwiperCore.use([Navigation]);
+SwiperCore.use([Navigation, Pagination, Autoplay]);
 SwiperCore.use([Pagination]);
 
 interface Continent {
@@ -41,7 +40,12 @@ export default function ContinentsBanner({
         mx="auto"
         my={["4", "10"]}
         className={styles.swiperContainer}>
-        <Swiper spaceBetween={50} slidesPerView={1} navigation pagination>
+        <Swiper
+          spaceBetween={50}
+          slidesPerView={1}
+          navigation
+          pagination
+          autoplay>
           {continents &&
             continents.map((continent) => (
               <SwiperSlide key={continent.slug}>

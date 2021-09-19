@@ -1,11 +1,13 @@
 import React from "react";
-import type { GetStaticProps, NextPage } from "next";
+import type { GetStaticProps } from "next";
 import Header from "../components/Header";
 import Banner from "../components/Banner";
 import TripTypes from "../components/TripTypes";
 import { Divider } from "@chakra-ui/react";
 import ContinentsBanner from "../components/ContinentsBanner";
 import { api } from "../services/api";
+import Continent from "./continent/[slug]";
+import Head from "next/head";
 
 interface Continent {
   slug: string;
@@ -21,6 +23,9 @@ interface HomeProps {
 export default function Home({ continents }: HomeProps) {
   return (
     <>
+      <Head>
+        <title>Worldtrip</title>
+      </Head>
       <Header />
       <Banner />
       <TripTypes />
@@ -37,7 +42,6 @@ export default function Home({ continents }: HomeProps) {
 }
 
 export const getStaticProps: GetStaticProps = async () => {
-  console.log("here");
   const response = await api.get<Continent[]>(`/continents`);
   const continents = response.data;
 

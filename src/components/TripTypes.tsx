@@ -3,9 +3,7 @@ import {
   Image,
   HStack,
   Flex,
-  Box,
   Text,
-  SimpleGrid,
   useBreakpointValue,
   Stack,
 } from "@chakra-ui/react";

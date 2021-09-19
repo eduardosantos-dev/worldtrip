@@ -1,4 +1,4 @@
-import { Flex, Heading, Text, Link as ChakraLink } from "@chakra-ui/react";
+import { Flex, Heading, Text } from "@chakra-ui/react";
 import Link from "next/link";
 import React from "react";
 
@@ -31,7 +31,7 @@ export default function ContinentSlide({ continent }: ContinentSlideProps) {
             fontSize={["3xl", "4xl", "5xl"]}
             color="light.text"
             fontWeight="bold"
-            textShadow="3px 4px 5px rgba(0,0,0,0.7)">
+            filter="drop-shadow(0 4px 4px rgba(0,0,0,0.25))">
             {title}
           </Heading>
           <Text
@@ -39,7 +39,7 @@ export default function ContinentSlide({ continent }: ContinentSlideProps) {
             fontSize={["0.8rem", "1xl", "2xl"]}
             mt={["2", "4"]}
             color="light.text"
-            textShadow="3px 4px 5px rgba(0,0,0,0.7)">
+            filter="drop-shadow(0 4px 4px rgba(0,0,0,0.25))">
             {subtitle}
           </Text>
         </a>
